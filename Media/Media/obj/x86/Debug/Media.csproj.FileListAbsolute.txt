@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\Media\Media\bin\Debug\Media.exe
+C:\Users\Aluno\Desktop\Media\Media\bin\Debug\Media.pdb
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.Form1.resources
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.exe
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.pdb
