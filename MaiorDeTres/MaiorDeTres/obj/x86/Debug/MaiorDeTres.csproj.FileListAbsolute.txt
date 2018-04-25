@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Form1.resources
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+C:\Users\Aluno\Desktop\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb
