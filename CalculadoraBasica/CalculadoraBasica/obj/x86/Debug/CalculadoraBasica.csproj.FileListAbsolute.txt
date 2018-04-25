@@ -1,0 +1,9 @@
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.Form1.resources
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.exe
+C:\Users\Aluno\Desktop\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.pdb
